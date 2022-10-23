@@ -6,3 +6,4 @@ area = a * l
 print("A parede tem {}x{} e sua área é de {}m².".format(l, a, area))
 tinta = area / 2
 print("Para pintar essa parede serão necessários {}L de tinta.".format(tinta))
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
