@@ -72,3 +72,4 @@ e = n1 ** n2
 #print("A soma vale {}".format(n1+n2))
 print("A soma é {}, o produto é {} e a divisão é {:.3f}".format(s, m , d), end=" ")
 print("Divisão inteira {} e potência {}".format(di, e))
+
