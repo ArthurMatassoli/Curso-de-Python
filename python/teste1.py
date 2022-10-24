@@ -73,3 +73,27 @@ e = n1 ** n2
 print("A soma é {}, o produto é {} e a divisão é {:.3f}".format(s, m , d), end=" ")
 print("Divisão inteira {} e potência {}".format(di, e))
 
+====================================================================================================
+
+Utilizando Módulos
+
+MATH
+ceil = arredondamento pra cima
+floor = arredondamento pra baixo
+trunc = elimina o número apartir da vírgula
+pow = potência
+sqrt = raiz quadrada
+factorial = fatorial
+
+from math import sqrt, ceil
+
+import random
+num = random.randint(1, 10)
+print(num)
+
+import emoji
+print(emoji.emojize("Olá, Mundo :globe_showing_Americas:"))
+
+
+
+
