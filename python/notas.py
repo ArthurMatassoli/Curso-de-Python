@@ -109,5 +109,43 @@ print(lista)
 
 Manipulando Texto
 
+Fatiamento
+frase = Curso em Vídeo Python
+frase[9] = V
+frase[9:13] = Víde
+frase[9:14] = Vídeo
+frase[9:21] = Vídeo Python
+frase[9:21:2] = Vdo Pto
+frase[:5] = Curso
+frase[15:] = Python
+frase[9::3] = Ve Ph
 
+Análise
+frase = Curso em Vídeo Python
+len(frase) = 21 caracteres
+frase.count('o') = 3
+frase.count('o', 0, 13) = 1
+frase.find('deo') = 11
+frase.find("Android") = -1
+"Curso" in frase = True
+
+Transformação
+frase = Curso em Vídeo Python
+frase.replace("Python", "Android") = Curso em Vídeo Android
+frase.upper() = CURSO EM VÍDEO PYTHON
+frase.lower() = curso em vídeo python
+frase.capitalize() = Curso em vídeo python
+frease.title() = Curso Em Vídeo Python
+frase = ___Aprenda Python__
+frase.strip() = Aprenda Python
+frase.rstrip() = ___Aprenda Python
+frase.lstrip() = Aprenda Python__
+
+Divísão
+frase = Curso em Vídeo Python
+frase.split() = |Curso|em|Vídeo|Python| - listas separadas
+
+Junção
+frase = Curso em Vídeo Python
+"-".join(frase) = Curso-em-Vídeo-Python
 
