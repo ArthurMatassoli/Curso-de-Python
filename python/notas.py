@@ -86,7 +86,6 @@ sqrt = raiz quadrada
 factorial = fatorial
 
 from math import sqrt, ceil
-
 import random
 num = random.randint(1, 10)
 print(num)
@@ -105,5 +104,10 @@ print("O aluno escolhido foi {}".format(sort))
 shuffle(lista)
 print("A ordem de apresentação será: ")
 print(lista)
+
+====================================================================================================
+
+Manipulando Texto
+
 
 
