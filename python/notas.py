@@ -149,3 +149,8 @@ Junção
 frase = Curso em Vídeo Python
 "-".join(frase) = Curso-em-Vídeo-Python
 
+====================================================================================================
+
+Condições(if..else)
+
+
