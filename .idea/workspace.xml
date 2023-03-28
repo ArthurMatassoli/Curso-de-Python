@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c2444b1a-ad46-47c4-980b-89934a112185" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python/exercicios/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/exercicios/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/exercicios/ex021.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/exercicios/ex021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Curso-de-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Curso-de-Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Aulas/aula10a.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Aulas/aula10a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +30,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/arthu/Documents/GitHub/Curso-de-Python"
+    "last_opened_file_path": "C:/Users/arthu/Documents/Projetos/Curso-de-Python",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
